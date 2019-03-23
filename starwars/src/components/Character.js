@@ -18,7 +18,7 @@ function Character(props){
             </div>
 
             <div className = 'character-data'>
-                Mass: {props.character.mass}
+                Mass:{props.character.mass}
             </div>
         </div>
     )
